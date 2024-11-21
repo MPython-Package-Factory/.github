@@ -12,4 +12,4 @@ Wrap Matlab packages in Python !
 
 * [Example of Matlab project](https://github.com/MPython-Package-Factory/example-project-matlab)
 
-* [Python wrap of the exampl Matlab project](https://github.com/MPython-Package-Factory/example-project-python)
+* [Python wrap of the example Matlab project](https://github.com/MPython-Package-Factory/example-project-python)

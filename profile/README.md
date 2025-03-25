@@ -4,11 +4,15 @@
   <img alt="MPython logo." src="https://github.com/user-attachments/assets/fca44af5-8d62-402d-b1d7-5f465da3b5bb" width="400">
 </picture>
 
-Wrap Matlab packages in Python !
+# MPython Package Factory 
 
-* [Source code for MPython](https://github.com/MPython-Package-Factory/mpython)
+Wrap Matlab packages in Python!
 
-* [Template repository](https://github.com/MPython-Package-Factory/mpython-template)
+* [**MPython**: Wrapper code and MATLAB entrypoint](https://github.com/MPython-Package-Factory/mpython)
+
+* [**MPython Core**: Python interface and helper functions](https://github.com/MPython-Package-Factory/mpython)
+
+* [**MPython Template**: Template repository](https://github.com/MPython-Package-Factory/mpython-template)
 
 * [Example of Matlab project](https://github.com/MPython-Package-Factory/example-project-matlab)
 

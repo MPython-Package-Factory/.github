@@ -10,7 +10,7 @@ Wrap Matlab packages in Python!
 
 * [**MPython**: Wrapper code and MATLAB entrypoint](https://github.com/MPython-Package-Factory/mpython)
 
-* [**MPython Core**: Python interface and helper functions](https://github.com/MPython-Package-Factory/mpython)
+* [**MPython Core**: Python interface and helper functions](https://github.com/MPython-Package-Factory/mpython-core)
 
 * [**MPython Template**: Template repository](https://github.com/MPython-Package-Factory/mpython-template)
 
